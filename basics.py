@@ -1,1 +1,2 @@
-print("Hello world")
+#data types
+#int,str,bool,float
